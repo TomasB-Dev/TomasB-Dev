@@ -17,7 +17,7 @@
  <tr>
   <td>
     <h5>Albion Rentability</h5>
-   <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/b777ea2b-771f-4053-bf06-203be279219e" alt="albion market" style="width="30px;">
+   <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/b777ea2b-771f-4053-bf06-203be279219e" alt="albion market" style="width=30px;">
    <p>It is a project where it allows us to know the price of an item in all markets of the game "Albion Online" through the "albion data project" api.</p>
    <a href="https://github.com/TomasB-Dev/Albion-Rentability" target="_blank"></a><img alt="Static Badge" src="https://img.shields.io/badge/CODIGO-blackgreen"></a>
 
