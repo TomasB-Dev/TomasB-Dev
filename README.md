@@ -18,12 +18,9 @@
         <tr>
             <td style="width:400px; float:left;">
                 <h3>Albion Rentability</h3>
-                <a href="https://github.com/TomasB-Dev/Albion-Rentability" target="_blank" style="display: block; text-align: center; text-decoration: none;">
-                <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/b777ea2b-771f-4053-bf06-203be279219e" alt="albion market" width="380" height="220" style="display: block;">
-                <p>It is a project where it allows us to know the price of an item <br> in all markets of the game "Albion Online" through the "albion data project" api.</p>
-                <img alt="Static Badge" src="https://img.shields.io/badge/go to project-blackgreen" style="display: block;">
-            </a>
-            </a>
+                <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/b777ea2b-771f-4053-bf06-203be279219e" alt="albion market" width="380" height="220">
+                <p>It is a project where it allows us to know the price of an item </br> in all markets of the game "Albion Online" through the "albion data project" api.</p>
+                <a href="https://github.com/TomasB-Dev/Albion-Rentability" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/go to project-blackgreen"style="display: block; margin: 0 auto; width: 200px;"></a>
             </td>
             <td style="width:400px; float:left;">
              <h3>Segurity Chamba</h3>
