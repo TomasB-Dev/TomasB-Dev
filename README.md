@@ -1,5 +1,6 @@
 ### Hello! I'm Tomás👋
-![banner](https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/866322d2-4787-4e81-91a4-33581d079c02)
+![banner](https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/14cfb6df-ce08-4a2b-af17-ecb1f8407c53)
+
 ## About me
 - 🌐 Web developer fullstack
 - 👨‍💻 Learning software development
