@@ -6,6 +6,7 @@
 - 👨‍💻 Learning software development
 - 📚 I enjoy learning new technologies
 - 🎓 Autodidact
+- 🗣️ I speak Spanish, English and Portuguese
  
 ## Stack
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> 
