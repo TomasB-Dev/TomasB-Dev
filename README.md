@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello! I'm Tomás👋
 
+
+##About me
+- 🌐 Web developer fullstack
+- 👨‍💻 Learning software development
+- 📚 I enjoy learning new technologies
 <!--
 **TomasB-Dev/TomasB-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
