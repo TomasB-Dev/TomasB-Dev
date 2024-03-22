@@ -20,13 +20,13 @@
                 <h3>Albion Rentability</h3>
                 <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/b777ea2b-771f-4053-bf06-203be279219e" alt="albion market" width="380" height="220">
                 <p>It is a project where it allows us to know </br> the price of an item  in all markets  </br> of the game "Albion Online" through the "albion data project" api.</p>
-                <a href="https://github.com/TomasB-Dev/Albion-Rentability" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/go to project-blackgreen"style="display: block; margin: 0 auto auto; width: 200px;"></a>
+                <a href="https://github.com/TomasB-Dev/Albion-Rentability" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Go to project-blackgreen"style="display: block; margin: 0 auto ; width: 200px;text-align: center;"></a>
             </td>
             <td style="width:400px; float:left;">
              <h3>Segurity Chamba</h3>
              <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/2314a8e8-9721-4636-8b12-e0684f1f555c" alt="seguridad" width="380" height="220">
              <p>This is a motion detection project where I use open Cv technology.</p>
-             <a href="https://github.com/TomasB-Dev/Segurity-chamba" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/go to project-blackgreen"style="display: block; margin: 0 auto; width: 200px;"></a>
+             <a href="https://github.com/TomasB-Dev/Segurity-chamba" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Go to project-blackgreen"style="display: block; margin: 0 auto; width: 200px;text-align: center;"></a>
             </td>
         </tr>
     </table>
