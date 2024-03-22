@@ -6,7 +6,8 @@
 - 📚 I enjoy learning new technologies
  
 ## Stack
-[![HTML]](https://img.shields.io/badge/Label-HTML-red)
+<img alt="Static Badge" src="https://img.shields.io/badge/Label-HTML-red">
+
 
 
 <!--
