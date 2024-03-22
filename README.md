@@ -6,7 +6,7 @@
 - 📚 I enjoy learning new technologies
  
 ## Stack
-- https://img.shields.io/badge/Label-HTML-red
+[![HTML]](https://img.shields.io/badge/Label-HTML-red)
 
 
 <!--
