@@ -1,7 +1,7 @@
 ### Hello! I'm Tomás👋
 
 
-##About me
+## About me
 - 🌐 Web developer fullstack
 - 👨‍💻 Learning software development
 - 📚 I enjoy learning new technologies
