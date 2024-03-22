@@ -1,10 +1,12 @@
 ### Hello! I'm Tomás👋
-
-
+![banner](https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/866322d2-4787-4e81-91a4-33581d079c02)
 ## About me
 - 🌐 Web developer fullstack
 - 👨‍💻 Learning software development
 - 📚 I enjoy learning new technologies
+ 
+
+
 <!--
 **TomasB-Dev/TomasB-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
