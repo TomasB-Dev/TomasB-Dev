@@ -15,7 +15,7 @@
  ## Featured projects
 
  <tr>
-  <td style="width:400px,float:left">
+  <td style="width:400px; float:left;">
     <h5>Albion Rentability</h5>
    <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/b777ea2b-771f-4053-bf06-203be279219e" alt="albion market" width="380" height="220">
    <p>It is a project where it allows us to know the price of an item in all markets of the game "Albion Online" through the "albion data project" api.</p>
@@ -26,7 +26,7 @@
   
   </td>
   
-  <td>Segurity Chamba</td>
+  <td style="width:400px; float:left;">Segurity Chamba</td>
 </tr>
 
 
