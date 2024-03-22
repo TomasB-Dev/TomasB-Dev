@@ -5,6 +5,8 @@
 - 👨‍💻 Learning software development
 - 📚 I enjoy learning new technologies
  
+## Stack
+- https://img.shields.io/badge/Label-HTML-red
 
 
 <!--
