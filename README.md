@@ -5,7 +5,6 @@
 - 🌐 Web developer fullstack
 - 👨‍💻 Learning software development
 - 📚 I enjoy learning new technologies
-- 🎓 Autodidact
 - 🗣️ I speak Spanish, English and Portuguese
  
 ## Stack
