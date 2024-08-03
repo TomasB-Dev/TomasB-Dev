@@ -10,7 +10,7 @@
 ## Stack
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-skyblue"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"></br> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/git-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/API-white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/git-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/API REST-white">
  <img alt="Static Badge" src="https://img.shields.io/badge/C-blue">
 
  ## Featured projects
