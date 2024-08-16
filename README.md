@@ -24,10 +24,10 @@
                 <a href="https://github.com/TomasB-Dev/Albion-Rentability" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Go to project-blackgreen"style="display: block; margin: 0 auto ; width: 200px;text-align: center;"></a>
             </td>
             <td style="width:400px; float:left;">
-             <h3>Segurity Chamba</h3>
-             <img src="https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/2314a8e8-9721-4636-8b12-e0684f1f555c" alt="seguridad" width="380" height="220">
-             <p>This is a motion detection project where I use open Cv technology.</p>
-             <a href="https://github.com/TomasB-Dev/Segurity-chamba" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Go to project-blackgreen"style="display: block; margin: 0 auto; width: 200px;text-align: center;"></a>
+             <h3>KeyBloquer</h3>
+             <img src="![image](https://github.com/user-attachments/assets/d31bd0ea-5d31-4961-a978-c9048da8e165)" alt="seguridad" width="380" height="220">
+             <p>Key blocker for broken keyboards</p>
+             <a href="https://github.com/TomasB-Dev/KeyBloquer" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Go to project-blackgreen"style="display: block; margin: 0 auto; width: 200px;text-align: center;"></a>
             </td>
         </tr>
     </table>
