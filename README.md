@@ -25,7 +25,7 @@
             </td>
             <td style="width:400px; float:left;">
              <h3>KeyBloquer</h3>
-             <img src="![image](https://github.com/user-attachments/assets/d31bd0ea-5d31-4961-a978-c9048da8e165)" alt="seguridad" width="380" height="220">
+             <img src="!https://github.com/user-attachments/assets/d31bd0ea-5d31-4961-a978-c9048da8e165" alt="seguridad" width="380" height="220">
              <p>Key blocker for broken keyboards</p>
              <a href="https://github.com/TomasB-Dev/KeyBloquer" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Go to project-blackgreen"style="display: block; margin: 0 auto; width: 200px;text-align: center;"></a>
             </td>
