@@ -15,7 +15,6 @@
 ## Most recent project
 
 <a href="https://github.com/TomasB-Dev/joysthing" target="__black">
- Joysthing
 <img alt="Project image" src="https://github.com/TomasB-Dev/joysthing/blob/main/assets/img/logo.png?raw=true" width="200">
 </a>
 
