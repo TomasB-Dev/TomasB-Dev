@@ -13,10 +13,12 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/git-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/API REST-white">
  
 ## Most recent project
-
+<div width = "230">
+ <h4>Joysthing</h4>
 <a href="https://github.com/TomasB-Dev/joysthing" target="__black">
 <img alt="Project image" src="https://github.com/TomasB-Dev/joysthing/blob/main/assets/img/logo.png?raw=true" width="200">
 </a>
+</div>
 
 
   
