@@ -7,11 +7,11 @@
 - 📚 I enjoy learning new technologies
 - 🗣️ I speak Spanish, English and Portuguese
  
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasB-Dev&layout=compact&theme=tokyonight)
 
-### 👀 Visitas a mi perfil
+## 👀 Visitas a mi perfil
 ![Profile views](https://komarev.com/ghpvc/?username=TomasB-Dev&color=blue&style=flat-square)
  
 ## Most recent project
