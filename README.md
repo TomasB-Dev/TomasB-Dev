@@ -7,10 +7,12 @@
 - 📚 I enjoy learning new technologies
 - 🗣️ I speak Spanish, English and Portuguese
  
-## Stack
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-red"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow"> 
-<img alt="Static Badge" src="https://img.shields.io/badge/PHP-skyblue"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue"></br> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/git-red"> <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple"> <img alt="Static Badge" src="https://img.shields.io/badge/API REST-white">
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasB-Dev&layout=compact&theme=tokyonight)
+
+### 👀 Visitas a mi perfil
+![Profile views](https://komarev.com/ghpvc/?username=TomasB-Dev&color=blue&style=flat-square)
  
 ## Most recent project
 <div width = "230">
@@ -19,13 +21,10 @@
 <img alt="Project image" src="https://github.com/TomasB-Dev/joysthing/blob/main/assets/img/logo.png?raw=true" width="200">
 </a>
 </div>
-### 👀 Visitas a mi perfil
-![Profile views](https://komarev.com/ghpvc/?username=TomasB-Dev&color=blue&style=flat-square)
-### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasB-Dev&layout=compact&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasB-Dev&show_icons=true&theme=tokyonight)
+
+
 
 
   
