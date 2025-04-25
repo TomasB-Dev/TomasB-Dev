@@ -19,6 +19,13 @@
 <img alt="Project image" src="https://github.com/TomasB-Dev/joysthing/blob/main/assets/img/logo.png?raw=true" width="200">
 </a>
 </div>
+### 👀 Visitas a mi perfil
+![Profile views](https://komarev.com/ghpvc/?username=TomasB-Dev&color=blue&style=flat-square)
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasB-Dev&layout=compact&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TomasB-Dev&show_icons=true&theme=tokyonight)
 
 
   
