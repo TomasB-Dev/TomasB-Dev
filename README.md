@@ -1,7 +1,7 @@
 ### Hello! I'm Tomás👋
 ![banner](https://github.com/TomasB-Dev/TomasB-Dev/assets/152812185/14cfb6df-ce08-4a2b-af17-ecb1f8407c53)
 
-## About me
+## 🧑‍💻 About me
 - 🌐 Web developer 
 - 👨‍💻 Learning software development
 - 📚 I enjoy learning new technologies
