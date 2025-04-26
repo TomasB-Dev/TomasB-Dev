@@ -14,15 +14,9 @@
 ## 👀 Visitas a mi perfil
 ![Profile views](https://komarev.com/ghpvc/?username=TomasB-Dev&color=blue&style=flat-square)
  
-## Most recent project
-<div width = "230">
- <h4>Joysthing</h4>
-<a href="https://github.com/TomasB-Dev/joysthing" target="__black">
-<img alt="Project image" src="https://github.com/TomasB-Dev/joysthing/blob/main/assets/img/logo.png?raw=true" width="200">
-</a>
-</div>
-
-
+### 🛠️ Actualmente trabajando en
+[![Joysthing](https://github.com/TomasB-Dev/joysthing/blob/main/assets/img/logo.png?raw=true)](https://github.com/TomasB-Dev/joysthing)
+> 🎮 Joysthing — Game controller utility tool para sistemas personalizados.
 
 
 
