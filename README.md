@@ -16,12 +16,18 @@
  
 ## Team Projects
 
-- [AVA Sound](https://github.com/TPI-TUP-P/AVA-Sound)
-:Backend-focused contribution · .NET · Entity Framework · Clean Architecture · REST API
-- [UTNetwork](https://github.com/TomasB-Dev/utnetwork)
-:Backend-focused contribution · Flask · REST API 
-- [ReactMonsters](https://github.com/TomasB-Dev/ReactMonster)
-:Full-stack development · React (Frontend) · Node.js (Backend) · Vite · REST API
+- [AVA Sound](https://github.com/TPI-TUP-P/AVA-Sound) <br>
+```
+Backend-focused contribution · .NET · Entity Framework · Clean Architecture · REST API
+```
+- [UTNetwork](https://github.com/TomasB-Dev/utnetwork) <br>
+```
+Backend-focused contribution · Flask · REST API
+```
+- [ReactMonsters](https://github.com/TomasB-Dev/ReactMonster) <br>
+```
+Full-stack development · React (Frontend) · Node.js (Backend) · Vite · REST API
+```
 
 
 
