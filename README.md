@@ -11,16 +11,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasB-Dev&layout=compact&theme=tokyonight)
 
-## 👀 Visitas a mi perfil
+## Profile views
 ![Profile views](https://komarev.com/ghpvc/?username=TomasB-Dev&color=blue&style=flat-square)
  
-<h2>🚀 Proyecto más reciente</h2>
-<a href="https://github.com/TomasB-Dev/joysthing" target="_blank">
-  <img src="https://raw.githubusercontent.com/TomasB-Dev/joysthing/refs/heads/main/assets/img/logo.png" width="250" alt="Joysthing Logo"/>
-</a>
-<p><strong>Joysthing</strong> — 🎮 [Game controller utility tool para sistemas personalizados].</p>
-<p>📁 <a href="https://github.com/TomasB-Dev/joysthing" target="_blank">Ver en GitHub</a></p>
+## Team Projects
 
+- [AVA Sound](https://github.com/TPI-TUP-P/AVA-Sound)
+:Backend-focused contribution · .NET · Entity Framework · Clean Architecture · REST API
+- [UTNetwork](https://github.com/TomasB-Dev/utnetwork)
+:Backend-focused contribution · Flask · REST API 
+- [ReactMonsters](https://github.com/TomasB-Dev/ReactMonster)
+:Full-stack development · React (Frontend) · Node.js (Backend) · Vite · REST API
 
 
 
